@@ -1,5 +1,6 @@
-databasePool:
-  url: jdbc:mysql://localhost:3306/SomeDb
+#MAP
+allied:
+  one: onev
   maxPoolSize: 60
   connectionTimeoutMs: 1000
   idleTimeoutMs: 120000
